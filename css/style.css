@@ -18,6 +18,10 @@ body {
     padding-top: 50px;
 }
 
+.margin-row {
+    margin: 0;
+}
+
 .quem-somos {
     background-color: beige;
 }
@@ -32,4 +36,13 @@ body {
 
 .bg-footer {
     background-color: lightslategrey;
+}
+
+.text-footer {
+    color: #252525;
+}
+
+.margin-footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
